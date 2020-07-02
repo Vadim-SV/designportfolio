@@ -715,7 +715,7 @@ a {
     padding: 8px;
   }
   .menu-button.w--open {
-    background-color: #b7b4b9;
+    background-color: #f9efe7;
   }
   .nav-menu {
     padding: 10px 20px 20px;
@@ -728,7 +728,7 @@ a {
     -webkit-align-items: flex-end;
     -ms-flex-align: end;
     align-items: flex-end;
-    background-color: #b7b4b9;
+    background-color: #f9efe7;
     text-align: right;
   }
   .header-wrapper {
